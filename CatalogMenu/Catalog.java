@@ -28,7 +28,7 @@ public class Catalog
 	
 	}
 	 public static void processUserChoice(int userChoice){
-	        switch (userChoice){
+	         switch (userChoice){
 	            case 1:
 	                 Fish.chooseFishOption();
 	                break;
